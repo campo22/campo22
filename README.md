@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"  width="1000" height="300"/>
+  <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"  width="1000" height="300"/>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30" alt="GitHub Parrot"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/java-parrot.gif" width="30" height="30" alt="Java Parrot"/>
